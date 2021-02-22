@@ -1,0 +1,22 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"licensePlate": "BMW2020",
+			"color": "red",
+			"brand": "Ford"
+		},
+		{
+			"id": 2,
+			"licensePlate": "LSN4149",
+			"color": "blue",
+			"brand": "Fiat"
+		},
+		{
+			"id": 3,
+			"licensePlate": "RIO2A18",
+			"color": "green",
+			"brand": "Honda"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"startDate": "2021-01-02",
+			"endDate": "2021-01-20",
+			"idDriver": 1,
+			"idCar": 2,
+			"reasonUse": "Work like Uber."
+		},
+		{
+			"id": 2,
+			"startDate": "2021-01-20",
+			"endDate": "",
+			"idDriver": 2,
+			"idCar": 3,
+			"reasonUse": "Work like Uber."
+		},
+		{
+			"id": 3,
+			"startDate": "2021-02-15",
+			"endDate": "",
+			"idDriver": 3,
+			"idCar": 1,
+			"reasonUse": "Work like Uber."
+		}
+	]
+}
